@@ -16,7 +16,7 @@
 - Necessary permissions for network scanning (run as root if required).
 
 ## Installation
-1. Download the scripts: `run_masscan.sh` and `main.py`.
+1. Download the scripts: `run_masscan.sh` and `main.py`: Using `git clone https://github.com/Own3dM3/easy-masscan-minecraft-server-scanner.git`.
 2. Make them executable:
    ```
    chmod +x run_masscan.sh main.py
