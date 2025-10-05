@@ -52,3 +52,4 @@ Discovered server at 192.168.0.15:25565
 Use this tool responsibly and ethically. Network scanning may violate terms of service or laws in some jurisdictions. Always obtain permission before scanning networks you do not own.
 
 For more details or support, check the original source or community forums.
+(https://avatars.mds.yandex.net/get-entity_search/2388236/1204728348/SUx182_2x)
