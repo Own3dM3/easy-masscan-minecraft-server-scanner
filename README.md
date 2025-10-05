@@ -1,5 +1,7 @@
 # Minecraft Server Finder/Scanner
 
+**Screenshot:**
+
 ![Minecraft Server Scanner Screenshot](https://i.imgur.com/47LBZMC.png)
 
 **Key Features:**
