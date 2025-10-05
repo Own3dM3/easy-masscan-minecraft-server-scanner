@@ -1,6 +1,6 @@
 # Minecraft Server Finder/Scanner
 
-![Minecraft Server Scanner Screenshot](https://i.imgur.com/qNN8ZND.png)
+![Minecraft Server Scanner Screenshot](https://i.imgur.com/47LBZMC.png)
 
 **Key Features:**
 - Fast IP range scanning using `masscan`.
