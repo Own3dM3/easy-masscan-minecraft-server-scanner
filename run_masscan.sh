@@ -144,7 +144,7 @@ if ! command -v masscan >/dev/null 2>&1; then
 fi
 
 echo "Running masscan: targets=${TARGETS_FILE}, port=${PORT}, rate=${RATE}, out=${OUT_FILE}"
-stdbuf -oL masscan -p"${PORT}" --rate "${RATE}" --open -iL "${TARGETS_FILE}" -oL "${OUT_FILE}"
+stdbuf -oL masscan -p"${PORT}" --rate "${RATE}" --open --exclude 255.255.255.255 -iL "${TARGETS_FILE}" -oL "${OUT_FILE}"
 
 echo "Running python checker..."
 PY_RUN="python3"
